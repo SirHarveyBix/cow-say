@@ -1,6 +1,6 @@
 const prez = {
-  name: "Madické",
-  campus: "Saint-Ouen",
+  name: "Dany",
+  campus: "Roubaix",
   message: function () {
     return `hello, i'm ${prez.name} from ${prez.campus}'s campus`;
   },

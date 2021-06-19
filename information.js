@@ -1,9 +1,9 @@
 const prez = {
-  name: "Dany",
-  campus: "Roubaix",
+  name: 'Dany',
+  campus: 'nantes & co ',
   message: function () {
     return `hello, i'm ${prez.name} from ${prez.campus}'s campus`;
   },
 };
-console.log(prez.name);
+console.log('files changed');
 module.exports = prez;
